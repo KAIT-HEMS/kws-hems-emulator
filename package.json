@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node start.js --enable-debug"
+  },
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
